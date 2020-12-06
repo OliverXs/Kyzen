@@ -4,9 +4,9 @@
 name = "KVM"
 version = "0.1.0"
 dependencies = [
- "core",
+ "kore",
 ]
 
 [[package]]
-name = "core"
+name = "kore"
 version = "0.1.0"

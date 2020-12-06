@@ -1,5 +1,5 @@
 [package]
-name = "core"
+name = "kore"
 version = "0.1.0"
 authors = ["OliverXs <matheusdeoliveiraxs@outlook.com>"]
 edition = "2018"
