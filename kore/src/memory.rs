@@ -1,5 +1,8 @@
 struct infinit{
-    Stack: Vec<i64>
+   unsafe{    
+        stack;
+        Heap;
+    }
     
 }
 

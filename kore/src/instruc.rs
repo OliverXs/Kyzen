@@ -19,7 +19,7 @@ pub enum Opcode{
 
     //Breaks
     CALL,
-    JUMP,
+    JUMP, //0xF1
     HLG,
 }
 
